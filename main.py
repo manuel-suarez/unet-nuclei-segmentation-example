@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 from skimage.io import imread, imshow
 from skimage.transform import resize
-import matplotlib.pyplot as plt.pyplot as plt
+import matplotlib.pyplot as plt
 
 seed = 42
 np.random.seed = seed
